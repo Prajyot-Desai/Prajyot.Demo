@@ -1,4 +1,4 @@
 # Prajyot.Demo
-My first Repository
+My first Repository.
 <br>
 Author - Prajyot Desai
